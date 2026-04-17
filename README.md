@@ -67,4 +67,12 @@ Showcases business-focused insights, useful for e-commerce analytics.
 Demonstrates practical database handling, crucial for real-world applications.
 
 # OUTPUT
+<img width="1072" height="666" alt="Screenshot 2026-04-17 114236" src="https://github.com/user-attachments/assets/294dbefb-39ff-44d3-85d1-d7a0e334b6e6" />
+<img width="1071" height="614" alt="Screenshot 2026-04-17 114300" src="https://github.com/user-attachments/assets/267dd8c2-a8a5-46a7-b021-7bcdb0c10cfe" />
+<img width="650" height="484" alt="Screenshot 2026-04-17 114312" src="https://github.com/user-attachments/assets/5f66ec1b-c763-439d-854e-8f1982ea79e7" />
+<img width="441" height="451" alt="Screenshot 2026-04-17 114330" src="https://github.com/user-attachments/assets/9bd20e13-a8ea-4a2c-9c7e-80aa7236d0d7" />
+
+
+
+
 
