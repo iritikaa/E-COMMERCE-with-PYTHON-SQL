@@ -67,4 +67,4 @@ Showcases business-focused insights, useful for e-commerce analytics.
 Demonstrates practical database handling, crucial for real-world applications.
 
 # OUTPUT
-image image image image image image
+
